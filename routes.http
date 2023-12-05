@@ -17,7 +17,7 @@ GET http://localhost:3333/livros
 
 ###
 
-PUT http://localhost:3333/livros/0cbdcf56-801f-46d2-8413-c44db3b68206
+PUT http://localhost:3333/livros/0cbdcf56-801f-46d2-8413-c44db3b68207
 Content-Type: application/json
 
 {
