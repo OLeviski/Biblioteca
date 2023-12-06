@@ -17,15 +17,15 @@ GET http://localhost:3333/livros
 
 ###
 
-PUT http://localhost:3333/livros/0cbdcf56-801f-46d2-8413-c44db3b68207
+PUT http://localhost:3333/livros/66aef106-d9ba-44dd-a812-8b4b55888f7b
 Content-Type: application/json
 
 {
-    "titulo": "Livro 02",
+    "titulo": "Livro IFMS",
     "autor": "Autor 02",
     "npaginas": 450
 }
 
 ###
 
-DELETE http://localhost:3333/livros/ae9eecf8-0656-4dab-a3fe-7cf7a66b7a62
+DELETE http://localhost:3333/livros/a943d582-60e2-4dda-93f8-98b37acf30c7
